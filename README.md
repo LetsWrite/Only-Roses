@@ -3,4 +3,4 @@ OnlyRoses
 
 A novel
 
-https://github.com/LetsWrite/OnlyRoses.wiki
+https://github.com/LetsWrite/OnlyRoses/wiki
